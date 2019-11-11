@@ -332,7 +332,8 @@
     "storage": [
       {"name":"+sclock","url":"clock-simple.json"},
       {"name":"-sclock","url":"clock-simple.js"},
-      {"name":"*sclock","url":"clock-simple.js","evaluate":true}
+      {"name":"*sclock","url":"clock-simple.js","evaluate":true},
+      {"name":"*timer","url":"my-timer-icon.js","evaluate":true}
     ]
   }
 ]
